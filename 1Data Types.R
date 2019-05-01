@@ -1,4 +1,4 @@
-#Data Type
+#Data Types
 
 a=10
 class(a)
